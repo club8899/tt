@@ -238,6 +238,10 @@ footer {
 
 #home .home-thumb {
   text-align: center;
+  background-color: #000;
+  opacity: 0.5;
+  padding: 1px 0 30px 0;
+  border-radius: 10px;	
 }
 
 #home .btn {
